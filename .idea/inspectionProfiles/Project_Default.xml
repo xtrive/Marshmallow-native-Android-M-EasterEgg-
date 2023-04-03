@@ -1,0 +1,11 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="JavaJniMissingFunction" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JniFunctionCorrectness" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="KotlinInternalExternalFunction" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="KotlinJniMissingFunction" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+  </profile>
+</component>
